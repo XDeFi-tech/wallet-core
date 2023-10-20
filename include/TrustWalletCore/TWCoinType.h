@@ -177,6 +177,7 @@ enum TWCoinType {
     TWCoinTypeGreenfield = 5600,
     TWCoinTypeMantle = 5000,
     TWCoinTypeZenEON = 7332,
+    TWCoinTypeCanto = 7700,
 };
 
 /// Returns the blockchain for a coin type.
